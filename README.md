@@ -42,4 +42,4 @@ The Kernel Watchtower intercepts the `insmod` syscall immediately. It triggers a
 ## Tech Stack
 * **Core:** C (Kernel Space), Python (User Space)
 * **Framework:** BCC (BPF Compiler Collection)
-* **Infrastructure:** Google Cloud Platform (GCP)cd
+* **Infrastructure:** Google Cloud Platform (GCP)
